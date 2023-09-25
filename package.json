@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ShaneByrne0963/simon-says#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^29.7.0"
   }
 }
